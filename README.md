@@ -53,6 +53,6 @@ Apasionado por el desarrollo de software y la creación de soluciones innovadora
 
 Estadísticas de GitHub
 
-## 🌐 Visita mi [Portafolio Web]([https://tuportafolio.com](https://jloendev.netlify.app/))
+## 🌐 Visita mi [Portafolio Web](https://jloendev.netlify.app/))
 
 ¡Gracias por visitar mi perfil! No dudes en contactarme si quieres colaborar en algún proyecto o simplemente charlar sobre tecnología.
